@@ -1,0 +1,27 @@
+# Node
+node_modules/
+package-lock.json
+
+# Playwright
+playwright-report/
+test-results/
+.playwright/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Output / generated artifacts
+output/
+
+# Secrets / env
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
